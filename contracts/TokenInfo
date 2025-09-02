@@ -1,0 +1,10 @@
+# $COINS Token Details
+
+- **Blockchain:** Solana  
+- **Token Standard:** SPL  
+- **Mint Address:** 9LjvTxWgtoEVdwRucY9hJLqmTcPnCRxoDiwbpzRvpump  
+- **Total Supply:** 1,000,000,000 (all minted and circulating)  
+- **Decimals:** 9  
+- **Authorities:**
+  - Mint Authority: Revoked
+  - Freeze Authority: Disabled
