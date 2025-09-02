@@ -4,7 +4,7 @@ $COINS is a fixed-supply token deployed on the **Solana blockchain** under the S
 
 - **Token Symbol:** COINS  
 - **Total Supply:** 1,000,000,000 (all in circulation)  
-- **Mint Address:** [INSERT MINT ADDRESS HERE]  
+- **Mint Address:** 9LjvTxWgtoEVdwRucY9hJLqmTcPnCRxoDiwbpzRvpump  
 - **Decimals:** 9  
 - **Token Standard:** SPL (Solana Program Library)  
 
